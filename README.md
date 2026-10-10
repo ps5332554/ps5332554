@@ -1,4 +1,4 @@
-![Cloud DevOps Engineer Banner](Cloud%20%20DevOps%20Engineer%20Banner.png)
+![Cloud DevOps Engineer Banner](./profile-banner.png)
 <h1 align="center">Hi, I'm Pravin Sharma 👋</h1>
 
 <h3 align="center">☁️ Cloud & DevOps Engineer | 💻 Software Developer</h3>
