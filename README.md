@@ -1,4 +1,4 @@
-![Pravin Sharma - Cloud & DevOps Engineer]
+
 
 <h1 align="center">Hi, I'm Pravin Sharma 👋</h1>
 
