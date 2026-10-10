@@ -1,4 +1,4 @@
-Hi, I'm Pravin Sharma:
+Hi, I'm Pravin Sharma:Cloud DevOps Engineer Banner.png
 
 <h1 align="center">Hi, I'm Pravin Sharma 👋</h1>
 
